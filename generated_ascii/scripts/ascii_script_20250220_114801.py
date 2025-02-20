@@ -21,55 +21,29 @@ def clear_screen():
 
 def display_ascii_art():
     """Display the animated ASCII art"""
-Here is an example Python code to display an animated, colorful ASCII smiley face in the console. The smiley face changes color and blinks every half second.
-
-```python
-import time
-import os
-
-ANSI_COLORS = {
-  'RED': '\u001b[31m',
-  'GREEN': '\u001b[32m',
-  'YELLOW': '\u001b[33m',
-  'BLUE': '\u001b[34m',
-  'MAGENTA': '\u001b[35m',
-  'CYAN': '\u001b[36m',
-  'WHITE': '\u001b[37m',
-  'RESET': '\u001b[0m',
-}
-
-EYES_OPEN_FACE = """
+    EYES_OPEN_FACE = """
     ^_^
-"""
+    """
 
-EYES_CLOSED_FACE = """
+    EYES_CLOSED_FACE = """
     -_-
-"""
-
-def print_color_text(color, text):
-    print(f'{ANSI_COLORS[color]}{text}{ANSI_COLORS["RESET"]}', end="\r")
+    """
     
-def main():
-    colors = ['RED', 'GREEN', 'YELLOW', 'BLUE', 'MAGENTA', 'CYAN', 'WHITE']
+    colors = [Colors.RED, Colors.GREEN, Colors.YELLOW, 
+             Colors.BLUE, Colors.PURPLE, Colors.CYAN]
     
-    while True:
-        for color in colors:
-            print_color_text(color, EYES_OPEN_FACE)
-            time.sleep(0.5)
-        
-            print_color_text(color, EYES_CLOSED_FACE)
-            time.sleep(0.5)
-            
-        os.system('cls' if os.name == 'nt' else 'clear')  # Clears the terminal
-
-if __name__ == "__main__":
-    main()
-```
-
-To run the code, ensure your terminal supports ANSI escape sequences. Different operating systems or configurations may display colors differently, or not at all. Depending on your system, the terminal clearing `os.system('cls')` for Windows or `os.system('clear')` for Unix might also not work properly. If this is the case, you can comment that line out. The animation will then print in a continuous stream, rather than repeating in one place.
-
-if __name__ == "__main__":
     try:
-        display_ascii_art()
+        while True:
+            for color in colors:
+                clear_screen()
+                print(f"{color}{EYES_OPEN_FACE}{Colors.RESET}", end="")
+                time.sleep(0.5)
+                
+                clear_screen()
+                print(f"{color}{EYES_CLOSED_FACE}{Colors.RESET}", end="")
+                time.sleep(0.5)
     except KeyboardInterrupt:
         print(Colors.RESET + "\nAnimation stopped.")
+
+if __name__ == "__main__":
+    display_ascii_art()
