@@ -101,5 +101,5 @@ Feel free to submit issues and enhancement requests!
 
 ## Note
 
-Make sure to keep your OpenAI API key secure and never commit it to the repository. The `.env` file is included in `.gitignore` for this reason.
+Make sure to keep your OpenAI API key secure and never commit it to the repository. The `.env` file is included in `.gitignore` for this reason. dgf
 
