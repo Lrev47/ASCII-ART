@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\generated_ascii",
+    "\\generated_ascii\\scripts"
   ],
+  "SelectedNode": "\\run_ascii_generator.sh",
   "PreviewInSolutionExplorer": false
 }
