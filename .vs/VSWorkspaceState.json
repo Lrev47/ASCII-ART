@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\generated_ascii",
-    "\\generated_ascii\\scripts"
+    "\\generated_ascii"
   ],
-  "SelectedNode": "\\run_ascii_generator.sh",
+  "SelectedNode": "\\ascii_generator.py",
   "PreviewInSolutionExplorer": false
 }

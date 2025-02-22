@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\ascii_generator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ascii_generator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\generated_ascii\\scripts\\ascii_script_20250221_082956.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:generated_ascii\\scripts\\ascii_script_20250221_082956.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\run_ascii_generator.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:run_ascii_generator.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +38,66 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-21T14:41:51.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ascii_generator.py",
+              "DocumentMoniker": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\ascii_generator.py",
+              "RelativeDocumentMoniker": "ascii_generator.py",
+              "ToolTip": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\ascii_generator.py",
+              "RelativeToolTip": "ascii_generator.py",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-21T14:40:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ascii_script_20250221_082956.py",
+              "DocumentMoniker": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\generated_ascii\\scripts\\ascii_script_20250221_082956.py",
+              "RelativeDocumentMoniker": "generated_ascii\\scripts\\ascii_script_20250221_082956.py",
+              "ToolTip": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\generated_ascii\\scripts\\ascii_script_20250221_082956.py",
+              "RelativeToolTip": "generated_ascii\\scripts\\ascii_script_20250221_082956.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-21T14:31:50.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-21T14:33:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "run_ascii_generator.sh",
               "DocumentMoniker": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\run_ascii_generator.sh",
               "RelativeDocumentMoniker": "run_ascii_generator.sh",
               "ToolTip": "C:\\Users\\lrev4\\source\\repos\\Lrev47\\ASCII-ART\\run_ascii_generator.sh",
               "RelativeToolTip": "run_ascii_generator.sh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK9SURBVEhL1ZU/SBtRHMc/d8mBmgiaRBdvUCIYoSAURERxkA7illlISsniInUQzOjYsQoq6BLq4GYRhELFqVkrSkEK4mz8i\u002BSo5s7Lr0tyPJ8GWtsO/cKPe\u002B/3vr/v9\u002B694/fgX0JE9NRfh6EngH4gU3u2NOCoEOAH8B34AHzTCSreAG6t6DnhAdO6aB2pPxSvxz0wUBc1FYMsYCnzB2hubmZiYgLbtrGshjSAEPC6PlEN\u002BpVxAMMwGB4eJp/P09vbi2EYDA4OYts2htHweAIt1aBFGQPQ3d3N7Ows6XQaz/M4OzujXC7jOA7JZJKhoSHa29v1MlQt9RU\u002BA6/qk2w2y9TUFL7v4/s\u002Bt7e3XF5ecnx8TCQSobW1FcuyME2Tw8ND1tbWFCmKwKiaoGYQHNb4\u002BLgsLy/L1dWVNILv\u002B3J9fS1zc3P6QX\u002Bpi6pb9ACu67Kzs8PMzAxbW1t4nhesiQiO41AqlTg4OGBvb\u002B9BrYqGBoZhcHd3x8XFBevr6\u002BRyOYrFIpVKhfPzc25ubvB9n9XVVVzX1csDNDQwTZNqtYrruriuy\u002BnpKYuLi5RKJVzXRUTY3d1lf3\u002Bf\u002B/t7vTxAQ4NQKEQoFAKgo6ODVCqFbdtUq9XAeGlpiUql8mD7dDQ0CIfDxONxUqkUXV1dRCIRotEoIoKIcHJyQjqdpq\u002Bv73lf0NTUxNjYGMlkkkQiQSwWIx6PIyJ4noeIMDIywvz8PKOjj/7IAKqBKGO2t7dZWVnBsix6enpIJBK0tbUhIpTLZTo7O3Ech3w\u002Bz8bGhloKUNUTAB\u002BfaFximqZMTk5KoVCQzc1NOTo6kmKxKJlMRsLh8CN\u002BLT7p4gDvniAGEY1GJZfLycLCgsRisUfrWrzXxQFe1Pq5Tv7d8IGXungd07V\u002Brhf9avjAW1XwqX47UOvn6pX5FA9FuH5lFoCvOun/xk/4HXgUzM90cgAAAABJRU5ErkJggg==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK/SURBVEhL1ZVNSxtRFIafyWQymvgxGq8fCcSNH1RJSxC6layEusjOleBWqD/Av9G6cKErf8EYCt34C9IupIiCuBBC4sKIDmomcSbXbibtdRKlhbroCwfmnHvO\u002Bw73Xt4Lr4nHx8dw6Z9DCxeAKPAGeAv0AXq4IYQWcAf8AE4AP9ygIgZ8AuqA/MuoB7OxMGkbRtDQ6jL8p\u002BEDnwOuDrwD3C5DEpCGYchsNiuFEDISiXSsK\u002BEGXABEFIEsYCo5AJFIBCEEa2tr5PN5BgcHmZ\u002BfJx6Po2ndjhAz4IKQQJ/yDYAQgqWlJdbX10mn05TLZWq1GgDZbJbJyUlMs\u002BOfULmiSlEVI5fLsbGxwdDQEL7vc39/j2maWJZFf38/AwMDGIZBs9nk4OCAUqmkjj/hauOjupcLCwtyd3dXXlxcSM/zZBitVkt6nicvLy/l8vJy\u002BBw\u002BtknVO/4e\u002BNBOkskk1WqVw8NDGo0GyWSSRCKBpmn4vk\u002B9XsdxHIrFIrZtc319rVDxFfjGSwJjY2P09vZyc3PD0dERpVKJeDxOKpXCcRxc1\u002BXq6oqdnR0qlQqO4yhUvwW67hXB7QF4eHig2WxSLpfZ29ujUqngeR66rlMsFjk\u002BPqbVaoXHf\u002BFZAU3T0HUdwzAQQjA1NUUmk/nlX9Vqlf39fVzXxfefd4dnBWKxGKOjo0xPT5NKpbAsi0QiAYDneZyfn1MoFMjlcuHRJ1AFnljr7e0tMzMzzM3NkU6nEUIghADg7u6O4eFhFhcXWVlZYWRkRB1F5VIPeQFYbie1Wo2zszNisRizs7NYloVpmoyPjyOlpNFoYNs229vbnJ6eKjQAfAG\u002Bh4urXXxF6rouJyYm5ObmprRtW56cnMitrS2ZyWRkNBrt6A9iNUxO4P8vml0\u002Bn5eFQkH29PR0rCvhBlwdeHW75jUenG5\u002B\u002B6pP5v\u002BHnxnsX6vUQ8HPAAAAAElFTkSuQmCC",
               "WhenOpened": "2025-02-21T13:37:05.775Z",
               "EditorCaption": ""
             }
